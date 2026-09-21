@@ -1,1 +1,78 @@
-const _0x59d2f7=_0x2d94;(function(_0x255a2f,_0x3023d8){const _0xb598ba=_0x2d94,_0x1102a6=_0x255a2f();while(!![]){try{const _0x31b852=-parseInt(_0xb598ba(0x1ec))/0x1+-parseInt(_0xb598ba(0x1f4))/0x2*(parseInt(_0xb598ba(0x1f7))/0x3)+-parseInt(_0xb598ba(0x1e0))/0x4+parseInt(_0xb598ba(0x1d6))/0x5*(parseInt(_0xb598ba(0x1b5))/0x6)+parseInt(_0xb598ba(0x1e7))/0x7+-parseInt(_0xb598ba(0x1f1))/0x8+-parseInt(_0xb598ba(0x1d0))/0x9*(-parseInt(_0xb598ba(0x1bf))/0xa);if(_0x31b852===_0x3023d8)break;else _0x1102a6['push'](_0x1102a6['shift']());}catch(_0x3c60fe){_0x1102a6['push'](_0x1102a6['shift']());}}}(_0x40cd,0xa8ca2));function _0x2d94(_0x3cc376,_0x1fc969){_0x3cc376=_0x3cc376-0x1b5;const _0x3be483=_0x40cd();let _0x33750a=_0x3be483[_0x3cc376];return _0x33750a;}function _0x40cd(){const _0x50c27d=['open','console','table','3316344UCtJEm','exception','includes','4JPxTrg','script','/engine/stockfish.js','1590819XoQNgD','GET','13518SIUJNK','get','clone','delete','startsWith','registration','constructor','info','return\x20(function()\x20','method','130cBNeoK','request','replace','navigate','activate','warn','bind','Offline','error','Asset\x20request\x20returned\x20HTML','mode','__proto__','waitUntil','addAll','skipWaiting','toString','text/html','1563597eogiEx','trace','map','length','destination','srs-puzzler-v3','670jgFQhF','install','/index.html','respondWith','addEventListener','location','match','content-type','url','clients','5159320zlVGkN','then','all','corpus/rating-shards/manifest.json','fetch','pathname','log','9182061jUyQug','origin','manifest.webmanifest','headers','keys','415873BNyxun','put'];_0x40cd=function(){return _0x50c27d;};return _0x40cd();}const _0x4ede60=(function(){let _0x2d5749=!![];return function(_0x529ec6,_0x5da4fc){const _0x18ea0f=_0x2d5749?function(){if(_0x5da4fc){const _0xd101b4=_0x5da4fc['apply'](_0x529ec6,arguments);return _0x5da4fc=null,_0xd101b4;}}:function(){};return _0x2d5749=![],_0x18ea0f;};}()),_0x33750a=_0x4ede60(this,function(){const _0x2c8c09=_0x2d94;let _0x4d5ddc;try{const _0x4e4c74=Function(_0x2c8c09(0x1bd)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x4d5ddc=_0x4e4c74();}catch(_0x112bd5){_0x4d5ddc=window;}const _0x27d244=_0x4d5ddc[_0x2c8c09(0x1ef)]=_0x4d5ddc[_0x2c8c09(0x1ef)]||{},_0x4761f1=[_0x2c8c09(0x1e6),_0x2c8c09(0x1c4),_0x2c8c09(0x1bc),_0x2c8c09(0x1c7),_0x2c8c09(0x1f2),_0x2c8c09(0x1f0),_0x2c8c09(0x1d1)];for(let _0x2cf542=0x0;_0x2cf542<_0x4761f1['length'];_0x2cf542++){const _0x244a23=_0x4ede60[_0x2c8c09(0x1bb)]['prototype']['bind'](_0x4ede60),_0x51da2a=_0x4761f1[_0x2cf542],_0xb4527e=_0x27d244[_0x51da2a]||_0x244a23;_0x244a23[_0x2c8c09(0x1ca)]=_0x4ede60[_0x2c8c09(0x1c5)](_0x4ede60),_0x244a23['toString']=_0xb4527e[_0x2c8c09(0x1ce)][_0x2c8c09(0x1c5)](_0xb4527e),_0x27d244[_0x51da2a]=_0x244a23;}});_0x33750a();const CACHE_NAME=_0x59d2f7(0x1d5),BASE_PATH=new URL('./',self[_0x59d2f7(0x1ba)]['scope'])[_0x59d2f7(0x1e5)],appPath=_0x476a5a=>''+BASE_PATH+_0x476a5a[_0x59d2f7(0x1c1)](/^\//,''),APP_SHELL=[appPath('/'),appPath('/index.html'),appPath('/manifest.webmanifest'),appPath('/icon-192.svg'),appPath('/icon-512.svg'),appPath(_0x59d2f7(0x1f6)),appPath('/engine/stockfish.wasm')];self[_0x59d2f7(0x1da)](_0x59d2f7(0x1d7),_0x2961a1=>{const _0x52b491=_0x59d2f7;_0x2961a1[_0x52b491(0x1cb)](caches['open'](CACHE_NAME)['then'](_0x4b53f9=>_0x4b53f9[_0x52b491(0x1cc)](APP_SHELL))[_0x52b491(0x1e1)](()=>self[_0x52b491(0x1cd)]()));}),self[_0x59d2f7(0x1da)](_0x59d2f7(0x1c3),_0x15fc8d=>{const _0x1bf0a2=_0x59d2f7;_0x15fc8d[_0x1bf0a2(0x1cb)](caches[_0x1bf0a2(0x1eb)]()['then'](_0x44c590=>Promise[_0x1bf0a2(0x1e2)](_0x44c590['filter'](_0x2c2c08=>_0x2c2c08!==CACHE_NAME)[_0x1bf0a2(0x1d2)](_0x5907cd=>caches[_0x1bf0a2(0x1b8)](_0x5907cd))))[_0x1bf0a2(0x1e1)](()=>self[_0x1bf0a2(0x1df)]['claim']()));}),self['addEventListener'](_0x59d2f7(0x1e4),_0x402570=>{const _0x15ba9a=_0x59d2f7;if(_0x402570[_0x15ba9a(0x1c0)][_0x15ba9a(0x1be)]!==_0x15ba9a(0x1f8))return;const _0x54da6a=new URL(_0x402570[_0x15ba9a(0x1c0)][_0x15ba9a(0x1de)]),_0x2d9d75=_0x54da6a[_0x15ba9a(0x1e5)][_0x15ba9a(0x1b9)](BASE_PATH)?_0x54da6a[_0x15ba9a(0x1e5)]['slice'](BASE_PATH[_0x15ba9a(0x1d3)]):_0x54da6a[_0x15ba9a(0x1e5)],_0x5afd69=_0x54da6a[_0x15ba9a(0x1e8)]===self['location'][_0x15ba9a(0x1e8)]&&(_0x402570[_0x15ba9a(0x1c0)][_0x15ba9a(0x1c9)]===_0x15ba9a(0x1c2)||_0x2d9d75==='index.html'||_0x2d9d75===_0x15ba9a(0x1e9)||_0x2d9d75===_0x15ba9a(0x1e3));_0x402570[_0x15ba9a(0x1d9)](_0x5afd69?networkFirstResponse(_0x402570[_0x15ba9a(0x1c0)]):cacheFirstResponse(_0x402570['request']));});async function cacheResponse(_0x363f88,_0x3b890a){const _0x24814d=_0x59d2f7;if(!_0x3b890a['ok']||new URL(_0x363f88[_0x24814d(0x1de)])[_0x24814d(0x1e8)]!==self[_0x24814d(0x1db)][_0x24814d(0x1e8)])return _0x3b890a;const _0x3d49df=_0x3b890a[_0x24814d(0x1b7)]();return await caches[_0x24814d(0x1ee)](CACHE_NAME)[_0x24814d(0x1e1)](_0xb4d296=>_0xb4d296[_0x24814d(0x1ed)](_0x363f88,_0x3d49df)),_0x3b890a;}async function networkFirstResponse(_0x58342e){const _0x3dcca4=_0x59d2f7;try{const _0x30a5a5=await fetch(_0x58342e),_0x58e327=_0x58342e[_0x3dcca4(0x1d4)]===_0x3dcca4(0x1f5)||_0x58342e[_0x3dcca4(0x1d4)]==='style'||_0x58342e[_0x3dcca4(0x1de)][_0x3dcca4(0x1f3)]('/assets/');if(_0x58e327&&_0x30a5a5[_0x3dcca4(0x1ea)][_0x3dcca4(0x1b6)](_0x3dcca4(0x1dd))?.[_0x3dcca4(0x1f3)](_0x3dcca4(0x1cf)))throw new Error(_0x3dcca4(0x1c8));return cacheResponse(_0x58342e,_0x30a5a5);}catch{const _0x1e0dea=await caches[_0x3dcca4(0x1dc)](_0x58342e);if(_0x1e0dea)return _0x1e0dea;if(_0x58342e[_0x3dcca4(0x1c9)]===_0x3dcca4(0x1c2))return caches['match'](appPath(_0x3dcca4(0x1d8)));return new Response('',{'status':0x1f7,'statusText':'Offline'});}}async function cacheFirstResponse(_0x3755e1){const _0x1360ad=_0x59d2f7,_0x4b0d2b=await caches[_0x1360ad(0x1dc)](_0x3755e1);if(_0x4b0d2b)return _0x4b0d2b;try{return await cacheResponse(_0x3755e1,await fetch(_0x3755e1));}catch{return new Response('',{'status':0x1f7,'statusText':_0x1360ad(0x1c6)});}}
+const CACHE_NAME = 'srs-puzzler-v3';
+const BASE_PATH = new URL('./', self.registration.scope).pathname;
+const appPath = (path) => `${BASE_PATH}${path.replace(/^\//, '')}`;
+const APP_SHELL = [
+  appPath('/'),
+  appPath('/index.html'),
+  appPath('/manifest.webmanifest'),
+  appPath('/icon-192.svg'),
+  appPath('/icon-512.svg'),
+  appPath('/engine/stockfish.js'),
+  appPath('/engine/stockfish.wasm')
+];
+
+self.addEventListener('install', (event) => {
+  event.waitUntil(
+    caches.open(CACHE_NAME)
+      .then((cache) => cache.addAll(APP_SHELL))
+      .then(() => self.skipWaiting())
+  );
+});
+
+self.addEventListener('activate', (event) => {
+  event.waitUntil(
+    caches.keys()
+      .then((keys) => Promise.all(keys.filter((key) => key !== CACHE_NAME).map((key) => caches.delete(key))))
+      .then(() => self.clients.claim())
+  );
+});
+
+self.addEventListener('fetch', (event) => {
+  if (event.request.method !== 'GET') return;
+
+  const requestUrl = new URL(event.request.url);
+  const relativePath = requestUrl.pathname.startsWith(BASE_PATH)
+    ? requestUrl.pathname.slice(BASE_PATH.length)
+    : requestUrl.pathname;
+  const networkFirst = requestUrl.origin === self.location.origin && (
+    event.request.mode === 'navigate' ||
+    relativePath === 'index.html' ||
+    relativePath === 'manifest.webmanifest' ||
+    relativePath === 'corpus/rating-shards/manifest.json'
+  );
+
+  event.respondWith(networkFirst ? networkFirstResponse(event.request) : cacheFirstResponse(event.request));
+});
+
+async function cacheResponse(request, response) {
+  if (!response.ok || new URL(request.url).origin !== self.location.origin) return response;
+  const copy = response.clone();
+  await caches.open(CACHE_NAME).then((cache) => cache.put(request, copy));
+  return response;
+}
+
+async function networkFirstResponse(request) {
+  try {
+    const response = await fetch(request);
+    const isAsset = request.destination === 'script' || request.destination === 'style' || request.url.includes('/assets/');
+    if (isAsset && response.headers.get('content-type')?.includes('text/html')) {
+      throw new Error('Asset request returned HTML');
+    }
+    return cacheResponse(request, response);
+  } catch {
+    const cached = await caches.match(request);
+    if (cached) return cached;
+    if (request.mode === 'navigate') return caches.match(appPath('/index.html'));
+    return new Response('', { status: 503, statusText: 'Offline' });
+  }
+}
+
+async function cacheFirstResponse(request) {
+  const cached = await caches.match(request);
+  if (cached) return cached;
+  try {
+    return await cacheResponse(request, await fetch(request));
+  } catch {
+    return new Response('', { status: 503, statusText: 'Offline' });
+  }
+}
